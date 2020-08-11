@@ -4,13 +4,13 @@ from setuptools import find_packages
 setup(
   name = 'riftwrapper',
   packages = find_packages(),
-  version = 'v1.1',
+  version = 'v1.2',
   license='gpl-3.0',
   description = 'Python Riot API wrapper',
   author = 'verd1c',
   author_email = 'kwstasfortmanik@gmail.com',
   url = 'https://github.com/verd1c/Rift-Wrapper',
-  download_url = 'https://github.com/verd1c/Rift-Wrapper/archive/v1.0.tar.gz',
+  download_url = 'https://github.com/verd1c/Rift-Wrapper/archive/v1.1.tar.gz',
   keywords = ['RiotAPI', 'Riot API wrapper', 'Python API'],
   install_requires=[
           'requests',
