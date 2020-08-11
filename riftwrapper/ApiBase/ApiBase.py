@@ -14,6 +14,7 @@ class ApiBase:
 
     def default_request(self, URL):
         res = requests.get(URL)
+        print(URL)
 
         # Check for bad API key
         if res.status_code == 200:
