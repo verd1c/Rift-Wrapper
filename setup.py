@@ -10,7 +10,7 @@ setup(
   author = 'verd1c',
   author_email = 'kwstasfortmanik@gmail.com',
   url = 'https://github.com/verd1c/Rift-Wrapper',
-  download_url = 'https://github.com/verd1c/Rift-Wrapper/archive/v1.1.tar.gz',
+  download_url = 'https://github.com/verd1c/Rift-Wrapper/archive/v1.2.tar.gz',
   keywords = ['RiotAPI', 'Riot API wrapper', 'Python API'],
   install_requires=[
           'requests',
