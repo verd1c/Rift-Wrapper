@@ -1,9 +1,10 @@
 from distutils.core import setup
+from setuptools import find_packages
 
 setup(
   name = 'riftwrapper',
-  packages = ['riftwrapper'],
-  version = 'v1.0',
+  packages = find_packages(),
+  version = 'v1.1',
   license='gpl-3.0',
   description = 'Python Riot API wrapper',
   author = 'verd1c',
