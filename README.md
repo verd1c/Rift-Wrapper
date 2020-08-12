@@ -67,7 +67,7 @@ print(free_champion_rotation)
 
 ## Future Work
 
-Version 1.3 is to include support for the TFT and Valorant API
+Version 1.3 is to include support for the TFT and Valorant API.
 
 ## Changelog
 
