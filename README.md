@@ -1,6 +1,6 @@
 # RiftWrapper v1.2
 
-RiftWrapper is a simple wrapper for the [Riot Games API](https://developer.riotgames.com/docs/portal) written in python. The currently supported APIs are:
+RiftWrapper is a simple wrapper for the [Riot Games API](https://developer.riotgames.com/docs/portal) written in python. You can check the currently supported APIs [here](https://github.com/verd1c/Rift-Wrapper#supported-api-versions).
 
 ## Installation
 
