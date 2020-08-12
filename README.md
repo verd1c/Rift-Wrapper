@@ -4,6 +4,8 @@ RiftWrapper is a simple wrapper for the [Riot Games API](https://developer.riotg
 
 ## Installation
 
+To install using pip do:
+
 ```sh
 pip install riftwrapper
 ```
